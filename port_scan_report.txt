@@ -1,0 +1,5 @@
+Port Scan Report for 127.0.0.1 - 2025-09-19 20:24:25.253846
+--------------------------------------------------
+Port 22 is CLOSED
+Port 80 is CLOSED
+Port 443 is CLOSED
